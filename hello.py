@@ -1,6 +1,6 @@
 print("Hello world")
 
-print("Second line")
+print("Second line and third line")
 
 print(4*5)
 
