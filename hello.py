@@ -1,3 +1,3 @@
-print("Hello word")
+print("Hello world")
 
 print("Second line")
